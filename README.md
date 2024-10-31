@@ -1,4 +1,4 @@
-# 🎶 Audio Steganography Project in MATLAB 🎶
+# 🎶Audio Steganography Project in MATLAB🎶
 
 ### Welcome to the Audio Steganography Project! 🌐
 

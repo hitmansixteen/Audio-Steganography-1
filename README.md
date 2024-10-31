@@ -34,5 +34,4 @@ This project explores four different audio steganography techniques, each with i
 - **GUI Interface**: *"The central hub for exploring each steganography technique in one easy-to-use interface"*
 
 
-```markdown
-![GUI Interface](images/gui_screenshot.png)
+<img width="596" alt="gui_screenshot" src="https://github.com/user-attachments/assets/ba387dc4-1337-40d3-9ec4-576785bf9969">

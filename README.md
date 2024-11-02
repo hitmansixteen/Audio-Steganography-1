@@ -27,7 +27,7 @@ This project explores four different audio steganography techniques, each with i
 - **Step 1**: Launch the GUI by executing `gui.m`.
 - **Step 2**: Choose one of the four techniques from the interface.
 - **Step 3**: Load your audio file and enter the secret message.
-- **Step 4**: Hit **Encode** to embed your message or **Decode** to retrieve hidden messages.
+- **Step 4**: Hit **Embed** to embed your message or **Extract** to retrieve hidden messages.
 
 ### 📸 Screenshot
 

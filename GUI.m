@@ -1,6 +1,8 @@
 clc;
 clear;
 
+audio_steg_gui();
+
 function audio_steg_gui
     % Create a figure window for the GUI
     fig = uifigure('Position', [100, 100, 800, 600], 'Name', 'Audio Steganography');
@@ -284,4 +286,3 @@ function audio_steg_gui
 end
 
 
-audio_steg_gui();
